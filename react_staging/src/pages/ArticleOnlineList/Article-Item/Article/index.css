@@ -1,0 +1,39 @@
+.article-content {
+  width: 660px;
+  margin: 0 auto;
+}
+.article-meta {
+  margin: 12px 0 20px;
+  font-size: 13px;
+  color: #777;
+}
+.content-box{
+  border-top: 1px solid #e8e8e8;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  font-size: 16px;
+  line-height: 1.75;
+  margin-bottom: 24px;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.favor-dislike{
+  width: 150px;
+  margin: 0 auto;
+}
+.btn{
+  width: 50px;
+  text-align: center;
+  font-size: 14px;
+  margin-right: 25px;
+  position: relative;
+  border: none;
+  border-radius: 13px;
+}
+.btn:focus{
+  outline: 0;
+  background-color: rgba(82, 168, 236, 0.8);
+}

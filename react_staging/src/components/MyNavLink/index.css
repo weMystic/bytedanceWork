@@ -1,0 +1,23 @@
+
+.MyNavLink{
+  width: 60px;
+  padding: 10px 15px;
+  display: block;
+  margin-top: 10px;
+  margin-right: -2px;
+  text-align: center;
+  position: relative;
+  float: right;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  text-decoration: none;
+}
+.MyNavLink:hover{
+  background-color: #f5f5f5;
+  color: black;
+}
+.MyNavLink:focus,.active{
+  background-color: #337ab7;
+  color: #fff;
+  border-color: #337ab7;
+}
